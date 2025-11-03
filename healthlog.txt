@@ -1,0 +1,19 @@
+
+System date and time: Mon, Nov  3, 2025 11:27:25 AM
+System Uptime: 169 hours 5 minutes
+CPU Load (1, 5, 15 min): 1.15 1.15 1.15
+Memory Usage (MB):
+Total: 8046 MB
+Used: 8046 MB
+Free: 0 MB
+
+Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   73G  165G  31% /
+
+Top 5 Memory Consuming Processes:
+
+Service Status:
+SSH: Not Running 
+Nginx: Not Running 
+------
